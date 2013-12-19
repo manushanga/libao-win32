@@ -1,0 +1,4 @@
+libao Windows version forked from https://github.com/thedmd/pianobar-windows-build
+
+This repository contains no additional work other than a vanilla version of libao
+that compiles with MSVC 2010. License and conditions inside src/ apply.
